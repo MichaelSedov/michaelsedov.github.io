@@ -85,7 +85,7 @@ const PROJECTS = {
   rightway: {
     eyebrow: "2018 — 2021 · US Healthcare",
     title: "Rightway Healthcare",
-    role: "Frontend / Product Engineer",
+    role: "Software Engineer",
     heroImage: `assets/rightway-1.webp`,
     galleryImages: [`assets/rightway-1.webp`, `assets/rightway-2.webp`],
     intro: "Rightway is a healthcare navigation and pharmacy benefits platform that sits between employers and the US healthcare system — connecting members to Health Guides (real humans) who help them navigate care, medications, and billing.",
