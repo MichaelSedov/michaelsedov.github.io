@@ -91,24 +91,23 @@ const PROJECTS = {
     intro: "Rightway is a healthcare navigation and pharmacy benefits platform that sits between employers and the US healthcare system — connecting members to Health Guides (real humans) who help them navigate care, medications, and billing.",
     body: "<p><strong>Product.</strong> A healthcare navigation and pharmacy benefits platform serving Fortune 500 companies — Tyson Foods, Instacart, and others — with member-facing apps on iOS, Android, and web.</p><p><strong>Trajectory.</strong> Rightway reached a <strong>$1B+ valuation in under 3 years</strong>. I joined as a frontend engineer and later took on lead responsibilities — onboarding new devs, screening candidates, and establishing engineering practices like unit testing.</p><p><strong>What I built.</strong> Designed and built the Client Portal — a real-time claims management dashboard using GraphQL Subscriptions. Worked across React, React Native, Next.js, and Apollo GraphQL. Improved accessibility to WCAG standards within HIPAA compliance.</p>",
     highlights: [
-      "Shipped medication management flows: pricing lookup, refill reminders, pharmacy switching, prescription transfer to mail order.",
-      "Worked closely with product and design to iterate on the Health Guide chat experience — the highest-engagement surface in the app.",
-      "Contributed to the design system and a11y guidelines so new features shipped accessible by default.",
-      "Partnered with backend developers to build a real-time claims dashboard using GraphQL Subscriptions.",
+      "Designed and built the Client Portal, a real-time claims management dashboard using GraphQL Subscriptions for the support team",
+      "Set up unit testing for the frontend, wrote the first tests, and helped establish the practice within the team",
+      "Improved platform accessibility to meet WCAG requirements and worked within HIPAA compliance constraints",
+      "Onboarded new developers and screened junior/intern candidates",
+      "Worked with product and design on feature planning, UX improvements, and translating Figma/Sketch designs into implementation"
     ],
     links: [
       { label: "rightwayhealthcare.com", url: "https://www.rightwayhealthcare.com/", type: "external" },
       { label: "iOS App", url: "https://apps.apple.com/us/app/rightway-healthcare/id1294810240", type: "external" },
       { label: "Google Play", url: "https://play.google.com/store/apps/details?id=com.rightway.roadmap.consumer&hl=en", type: "external" }
     ],
-    tech: ["React", "Next.js", "TypeScript", "React Native", "Design Systems", "a11y"],
+    tech: ["React", "TypeScript", "React Native", "Design Systems", "a11y"],
     sidebar: [
       { k: "Company", v: "Rightway Healthcare" },
       { k: "Industry", v: "US Healthcare / PBM" },
       { k: "Stat", stat: "$1B+", v: "Company valuation" },
-      { k: "NPS", v: "70 (8.5× industry avg)" },
-      { k: "Clients", v: "Tyson Foods, Instacart, + Fortune 500" },
-      { k: "Role", v: "Frontend / Product Engineer" },
+      { k: "Role", v: "Software Engineer" },
       { k: "Tenure", v: "Jan 2018 — May 2021" }
     ]
   },
